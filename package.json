@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/vascofbribeiro/ecgviewer/issues"
   },
-  "homepage": "https://github.com/vascofbribeiro/ecgviewer#readme"
+  "homepage": "https://github.com/vascofbribeiro/ecgviewer#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1",
+    "semantic-ui": "^2.2.14"
+  }
 }
