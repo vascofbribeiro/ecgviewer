@@ -1,0 +1,19 @@
+{
+  "name": "ecgviewer",
+  "version": "1.0.0",
+  "description": "Complete Webapp for ECG Viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vascofbribeiro/ecgviewer.git"
+  },
+  "author": "Vasco Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vascofbribeiro/ecgviewer/issues"
+  },
+  "homepage": "https://github.com/vascofbribeiro/ecgviewer#readme"
+}
